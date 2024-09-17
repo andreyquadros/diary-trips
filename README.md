@@ -37,35 +37,28 @@ Este projeto é um aplicativo Flutter que permite aos usuários explorar países
 
 Permite que o usuário faça login ou crie uma nova conta.
 
-![Tela de Login]([./screenshots/login_screen.png](https://raw.githubusercontent.com/andreyquadros/diary-trips/refs/heads/master/loginPage.png?token=GHSAT0AAAAAACVGL26KMICXICVYLFLMOKZMZXJ26YQ))
+<img src="https://github.com/andreyquadros/diary-trips/blob/master/loginPage.png" alt="Tela de Login" width="300"/>
 
 ### 🌍 Lista de Países
 
 Exibe uma lista dos países de língua portuguesa com bandeira e nome.
 
-![Lista de Países](./screenshots/countries_list.png)
+<img src="https://github.com/andreyquadros/diary-trips/blob/master/Screenshot_20240917_151557.png" alt="Lista de Países" width="300"/>
 
 ### 📌 Detalhes do País com Mapa
 
 Mostra detalhes do país selecionado e um mapa com sua localização.
 
-![Detalhes do País](./screenshots/country_details.png)
 
-### 📒 Registro de Viagens
+<img src="https://github.com/andreyquadros/diary-trips/blob/master/Screenshot_20240917_151612.png" alt="País no Detalhe" width="300"/>
+
+
+### 📒 Acessando o País pelo Google Maps
 
 Permite que o usuário registre informações sobre suas viagens.
 
-![Registro de Viagens](./screenshots/travel_log.png)
+<img src="https://github.com/andreyquadros/diary-trips/blob/master/Screenshot_20240917_151624.png" alt="Google Maps" width="300"/>
 
-### 💬 Compartilhamento de Experiências
 
-Formulário para o usuário compartilhar relatos de suas viagens.
 
-![Compartilhamento de Experiências](./screenshots/share_experience.png)
 
-## ⚙️ Configuração e Execução
-
-1. **Clone o Repositório:**
-
-   ```bash
-   git clone https://github.com/seu-usuario/diario-de-viagens-app.git
