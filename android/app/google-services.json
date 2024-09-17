@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55262055787",
+    "project_id": "flutter-travel-diary-challenge",
+    "storage_bucket": "flutter-travel-diary-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55262055787:android:4622779dc1247762f9902e",
+        "android_client_info": {
+          "package_name": "com.example.travel_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2f9hxJ0lJPeBJcfeoDhVOu-LbRtBN00g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
