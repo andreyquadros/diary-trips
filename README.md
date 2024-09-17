@@ -1,4 +1,4 @@
-# 🗺️ Viagens App
+# 🗺️ MVP - Dário de Viagens App
 
 Este projeto é um aplicativo Flutter que permite aos usuários explorar países que falam a língua portuguesa, visualizar informações detalhadas e registrar suas viagens. O aplicativo consome a API Rest Countries para obter informações atualizadas sobre os países e utiliza o Firebase para autenticação e armazenamento de dados do usuário. Além disso, integra o Google Maps para exibir a localização dos países selecionados.
 
